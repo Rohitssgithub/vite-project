@@ -1,0 +1,14 @@
+body{
+    overflow-x: hidden;
+}
+.btn{
+    padding: 20px;
+    border: solid 1px;
+}
+.userimage{
+    height: 100px;
+    width: 100px;
+}
+.active{
+    background-color: gray;
+}
